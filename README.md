@@ -15,7 +15,7 @@ A [Semantix](https://semantix.com.br/en/) , por meio de sua plataforma [Semantix
 * Redes Neurais (Semana 11) 
 * AG e NLP (Semana 12)
 
-Como desafio final a Semantix propos para os alunos que analisássemos o banco de dados do Enem 2019 e usássemos as habilidades aprendidas e desenvolvidas no curso. Este repositório apresenta minha análise sobre os dados, incluindo um [Jupyter Notebook](https://github.com/Daniell-Dantas/Desafio-Semantix/blob/main/An%C3%A1lise_Enem_2019.ipynb) e um relatório PDF comunicando os achados.
+Como desafio final a Semantix propos para os alunos que analisássemos o banco de dados do Enem 2019 e usássemos as habilidades aprendidas e desenvolvidas no curso. Este repositório apresenta minha análise sobre os dados, incluindo o [comando](https://github.com/Daniell-Dantas/Desafio-Semantix/blob/main/Comando_projeto_final_Semantix.pdf) do projeto final, um [Jupyter Notebook](https://github.com/Daniell-Dantas/Desafio-Semantix/blob/main/An%C3%A1lise_Enem_2019.ipynb) e um relatório PDF comunicando os achados.
 
 #  O que os dados nos dizem sobre o Enem 2019?
 No Enem de 2019, tivemos um total de 5095270 alunos, com 136 features (colunas) com informações diferentes, de 27 estados e 5570 municípios diferentes, com 82 idades diferentes relatadas (de 10 a 94 anos!), divididos entre brasileiros, naturalizados e estrangeiros, com representantes de cada uma das 5 cores/raças oficiais. Diante da riqueza de informações a serem analisadas, serão respondidas questões como:
