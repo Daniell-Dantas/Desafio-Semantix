@@ -25,7 +25,7 @@ No Enem de 2019, tivemos um total de 5095270 alunos, com 136 features (colunas) 
 * A idade influencia na nota?
 * Acesso à internet influencia na nota?
 
-Com esta análise desses dados objetiva-se identificar padrões, tendências e oportunidades para habilitar tomadores de decisão a fazer seu trabalho de forma ais efetiva. 
+Com esta análise desses dados objetiva-se identificar padrões, tendências e oportunidades para habilitar tomadores de decisão a fazer seu trabalho de forma mais acertiva. 
 
  ### A análise executa alguns passos que serão explicados durante a leitura, como:
 - Feature Engineering;
