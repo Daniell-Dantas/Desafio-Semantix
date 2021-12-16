@@ -5,7 +5,7 @@
 
 
 # Sobre o que é este desafio?
-A [Semantix](https://semantix.com.br/en/) , por meio de sua plataforma [Semantix Academy](https://semantix.com.br/academy/) oferece um treinamento de Bid Data Science, onde os aprovados aprenderam sobre:
+A [Semantix](https://semantix.com.br/en/) , por meio de sua plataforma [Semantix Academy](https://semantix.com.br/academy/) oferece um treinamento de Big Data Science, onde os aprovados aprenderam sobre:
 
 * Big Data Foundations (Semana 1, 2 e 3)
 * Armazenamento e Escrita de Dados (Semana 4)
